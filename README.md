@@ -10,6 +10,6 @@ There are some basic tutorials for computer vision in both MATLAB &amp; Python. 
 
 ## Example 1 : Read Histogram from Image & Get the detail of image input (size, colour space, value range, and value type)
 
-Python Script :
+Python Script : <br>
 MATLAB Script :
 
